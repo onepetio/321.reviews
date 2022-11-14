@@ -630,7 +630,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:^29.0.3":
+"@types/jest@npm:^29.2.2":
   version: 29.2.2
   resolution: "@types/jest@npm:29.2.2"
   dependencies:
@@ -647,7 +647,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^18.7.18":
+"@types/node@npm:*, @types/node@npm:^18.11.9":
   version: 18.11.9
   resolution: "@types/node@npm:18.11.9"
   checksum: cc0aae109e9b7adefc32eecb838d6fad931663bb06484b5e9cbbbf74865c721b03d16fd8d74ad90e31dbe093d956a7c2c306ba5429ba0c00f3f7505103d7a496
@@ -661,7 +661,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^18.0.6":
+"@types/react-dom@npm:^18.0.8":
   version: 18.0.8
   resolution: "@types/react-dom@npm:18.0.8"
   dependencies:
@@ -670,7 +670,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:^18.0.20":
+"@types/react@npm:*, @types/react@npm:^18.0.25":
   version: 18.0.25
   resolution: "@types/react@npm:18.0.25"
   dependencies:
@@ -718,7 +718,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:^5.37.0":
+"@typescript-eslint/eslint-plugin@npm:^5.42.1":
   version: 5.42.1
   resolution: "@typescript-eslint/eslint-plugin@npm:5.42.1"
   dependencies:
@@ -821,7 +821,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-react@npm:^2.1.0":
+"@vitejs/plugin-react@npm:^2.2.0":
   version: 2.2.0
   resolution: "@vitejs/plugin-react@npm:2.2.0"
   dependencies:
@@ -1796,7 +1796,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8.23.1":
+"eslint@npm:^8.27.0":
   version: 8.27.0
   resolution: "eslint@npm:8.27.0"
   dependencies:
@@ -3318,24 +3318,24 @@ __metadata:
   dependencies:
     "@tanstack/react-query": ^4.16.1
     "@tanstack/react-table": ^8.5.27
-    "@types/jest": ^29.0.3
-    "@types/node": ^18.7.18
-    "@types/react": ^18.0.20
-    "@types/react-dom": ^18.0.6
-    "@typescript-eslint/eslint-plugin": ^5.37.0
-    "@vitejs/plugin-react": ^2.1.0
-    eslint: ^8.23.1
+    "@types/jest": ^29.2.2
+    "@types/node": ^18.11.9
+    "@types/react": ^18.0.25
+    "@types/react-dom": ^18.0.8
+    "@typescript-eslint/eslint-plugin": ^5.42.1
+    "@vitejs/plugin-react": ^2.2.0
+    eslint: ^8.27.0
     eslint-config-airbnb: ^19.0.4
     eslint-config-airbnb-typescript: ^17.0.0
     eslint-import-resolver-typescript: ^3.5.2
     react: ^18.2.0
     react-dom: ^18.2.0
     react-router-dom: ^6.4.3
-    sass: ^1.54.9
+    sass: ^1.56.1
     typescript: ^4.8.4
-    vite: ^3.1.1
+    vite: ^3.2.3
     vitest: ^0.25.1
-    web-vitals: ^3.0.2
+    web-vitals: ^3.0.4
   languageName: unknown
   linkType: soft
 
@@ -3492,7 +3492,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:^1.54.9":
+"sass@npm:^1.56.1":
   version: 1.56.1
   resolution: "sass@npm:1.56.1"
   dependencies:
@@ -3970,7 +3970,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^3.0.0, vite@npm:^3.1.1":
+"vite@npm:^3.0.0, vite@npm:^3.2.3":
   version: 3.2.3
   resolution: "vite@npm:3.2.3"
   dependencies:
@@ -4049,7 +4049,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"web-vitals@npm:^3.0.2":
+"web-vitals@npm:^3.0.4":
   version: 3.0.4
   resolution: "web-vitals@npm:3.0.4"
   checksum: b618a8e049e0c64948eea09c372db490802bcc8bcb30230a2bc69d9e243b1a2fa54d0f0ae19d5e63f19381df86db2a9260ca15ef620e10024888eab487a77d56
