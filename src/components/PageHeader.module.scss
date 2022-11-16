@@ -8,6 +8,12 @@ i.logo {
     background-clip: text;
     -webkit-background-clip: text;
   }
+
+  &::selection,
+  *::selection {
+    color: white;
+    background: darkorange;
+  }
 }
 
 header.page-header {
