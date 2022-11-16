@@ -1,0 +1,42 @@
+i.logo {
+  font: normal 300 1.5rem Pretendard;
+
+  .gradient-text {
+    font: normal 800 1.5em Pretendard;
+    background-image: linear-gradient(90deg, rgb(245, 120, 20) 15%, rgb(255, 30, 20) 90%);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+}
+
+header.page-header {
+  display: grid;
+  grid-template-columns: 10rem 1fr;
+  justify-content: space-between;
+  padding: 2rem 4rem 2rem 4rem;
+  color: white;
+  font-size: 16px;
+
+  .center {
+    justify-self: center;
+
+    h1.center-string {
+      font-weight: 700;
+    }
+  }
+
+  .right {
+    justify-self: end;
+  }
+}
+
+
+.underline {
+  border-bottom: 1px solid #43494C;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+}
