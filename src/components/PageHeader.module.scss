@@ -8,21 +8,16 @@ i.logo {
     background-clip: text;
     -webkit-background-clip: text;
   }
-
-  &::selection,
-  *::selection {
-    color: white;
-    background: darkorange;
-  }
 }
 
 header.page-header {
   display: grid;
   grid-template-columns: 10rem 1fr;
   justify-content: space-between;
-  padding: 2rem 4rem 2rem 4rem;
-  color: white;
-  font-size: 16px;
+  padding: 2rem 4rem 0 4rem;
+  background-color: var(--color-gray-100);
+  color: var(--color-gray-text);
+  z-index: 99;
 
   .center {
     justify-self: center;

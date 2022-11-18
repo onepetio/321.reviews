@@ -1,7 +1,7 @@
-import type { Document } from "./index"
+import type { TableRow } from "./index"
 import styles from './ProductPreview.module.scss';
 
-export default function ({ name, image, maker }: Document['product']) {
+export default function ({ name, image, maker }: TableRow['product']) {
   return (
     <div className={styles["product-preview"]}>
       <img src={image} alt={name} />
